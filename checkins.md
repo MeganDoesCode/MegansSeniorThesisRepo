@@ -1,20 +1,20 @@
-## Week 1 Summary (MM/DD/YYYY)
+## Week 1 Summary (09/22/2025)
 
 ### This week I worked on:
 
-[Your answer here]
+[I worked on the basic structure of my website and discussed the design with my 'customer'(Mom).]
 
 ### This week I learned:
 
-[Your answer here]
+[I learned what my customer wants the website to be structured as.]
 
 ### My successes this week were:
 
-[Your answer here]
+[My success this week was creating the basic structure of the website and figuring out some of the details with the customer. ]
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+[The challenge I faced this week was refreshing my knowledge of HTML.]
 
 ---
 
