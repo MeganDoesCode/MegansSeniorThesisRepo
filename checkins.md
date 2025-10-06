@@ -18,22 +18,22 @@
 
 ---
 
-## Week 2 Summary (MM/DD/YYYY)
+## Week 2 Summary (09/29/2025)
 ### This week I worked on:
 
-[Your answer here]
+[This week I worked on refreshing my memory of SQL and javascript.]
 
 ### This week I learned:
 
-[Your answer here]
+[This week I learned about SQL and Javascript.]
 
 ### My successes this week were:
 
-[Your answer here]
+[My success this week was just learning. ]
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+[My challenge this week was trying to find the motivation to do anything.]
 
 ---
 
