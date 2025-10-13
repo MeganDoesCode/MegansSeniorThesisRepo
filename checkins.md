@@ -37,26 +37,26 @@
 
 ---
 
-## Week 3 Summary (MM/DD/YYYY)
+## Week 3 Summary (10/05/2025)
 ### This week I worked on:
 
-[Your answer here]
+[I created my database this week and began collecting photos for the website.]
 
 ### This week I learned:
 
-[Your answer here]
+[This week I learned how to put photos into an SQL database.]
 
 ### My successes this week were:
 
-[Your answer here]
+[My successes this week were creating the database and beginning the photo collection process.]
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+[The challenges I faced this week were finding time to work on this project with midterm coming up.]
 
 ---
 
-## Week 4 Summary (MM/DD/YYYY)
+## Week 4 Summary (10/13/2025)
 ### This week I worked on:
 
 [Your answer here]
