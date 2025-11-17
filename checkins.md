@@ -59,23 +59,23 @@
 ## Week 4 Summary (10/13/2025)
 ### This week I worked on:
 
-[Your answer here]
+[I worked on getting Node working.]
 
 ### This week I learned:
 
-[Your answer here]
+[I learned how to install Node on the terminal.]
 
 ### My successes this week were:
 
-[Your answer here]
+[Getting Node downloaded...I hope.]
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+[Figuring out how to get Node properly installed.]
 
 ---
 
-## Week 5 Summary (MM/DD/YYYY)
+## Week 5 Summary (10/20/2025)
 ### This week I worked on:
 
 [Your answer here]
@@ -94,7 +94,7 @@
 
 ---
 
-## Week 6 Summary (MM/DD/YYYY)
+## Week 6 Summary (10/27/2025)
 ### This week I worked on:
 
 [Your answer here]
@@ -113,7 +113,7 @@
 
 ---
 
-## Week 7 Summary (MM/DD/YYYY)
+## Week 7 Summary (11/03/2025)
 ### This week I worked on:
 
 [Your answer here]
@@ -132,7 +132,26 @@
 
 ---
 
-## Week 8 Summary (MM/DD/YYYY)
+## Week 8 Summary (11/10/2025)
+### This week I worked on:
+
+[I checked to make sure Node is installed properly and ]
+
+### This week I learned:
+
+[Your answer here]
+
+### My successes this week were:
+
+[Your answer here]
+
+### The challenges I faced this week were:
+
+[Your answer here]
+
+---
+
+## Week 9 Summary (11/17/2025)
 ### This week I worked on:
 
 [Your answer here]
@@ -151,7 +170,7 @@
 
 ---
 
-## Week 9 Summary (MM/DD/YYYY)
+## Week 10 Summary (11/24/2025)
 ### This week I worked on:
 
 [Your answer here]
@@ -170,7 +189,7 @@
 
 ---
 
-## Week 10 Summary (MM/DD/YYYY)
+## Week 11 Summary (12/01/2025)
 ### This week I worked on:
 
 [Your answer here]
@@ -189,7 +208,7 @@
 
 ---
 
-## Week 11 Summary (MM/DD/YYYY)
+## Week 12 Summary (12/08/2025)
 ### This week I worked on:
 
 [Your answer here]
@@ -208,26 +227,7 @@
 
 ---
 
-## Week 12 Summary (MM/DD/YYYY)
-### This week I worked on:
-
-[Your answer here]
-
-### This week I learned:
-
-[Your answer here]
-
-### My successes this week were:
-
-[Your answer here]
-
-### The challenges I faced this week were:
-
-[Your answer here]
-
----
-
-## Week 13 Summary (MM/DD/YYYY)
+## Week 13 Summary (12/15/2025)
 ### This week I worked on:
 
 [Your answer here]
