@@ -2,7 +2,7 @@
   "name": "megansseniorthesisrepo",
   "version": "1.0.0",
   "description": "My Senior Thesis Project.",
-  "main": "index.js",
+  "main": "Index.js",
   "directories": {
     "doc": "docs"
   },
