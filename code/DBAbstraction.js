@@ -20,11 +20,11 @@ class DBAbstraction {
     getProducts() {
         const sql = 'SELECT * FROM Products';
         return new Promise((resolve, reject) => {
-            this.db.get(sql, [], (err, row) => {
+            this.db.all(sql, [], (err, rows) => {
                 if(err){
                     reject(err);
                 } else {
-                    resolve(row);
+                    resolve(rows);
                 }
             });
         });
