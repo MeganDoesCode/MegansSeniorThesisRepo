@@ -135,19 +135,19 @@
 ## Week 8 Summary (11/10/2025)
 ### This week I worked on:
 
-[I checked to make sure Node is installed properly and ]
+[I checked to make sure Node is installed properly and began working on my javascript.]
 
 ### This week I learned:
 
-[Your answer here]
+[How to implement Node. ]
 
 ### My successes this week were:
 
-[Your answer here]
+[Getting Node installed properly. ]
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+[Remembering how to use the terminal.]
 
 ---
 
@@ -173,19 +173,19 @@
 ## Week 10 Summary (11/24/2025)
 ### This week I worked on:
 
-[Your answer here]
+[I finished getting my database connected properly to my website.]
 
 ### This week I learned:
 
-[Your answer here]
+[How to connect a database to a website. ]
 
 ### My successes this week were:
 
-[Your answer here]
+[Getting the database connected.]
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+[I can't get the pictures to work for some reason. ]
 
 ---
 
