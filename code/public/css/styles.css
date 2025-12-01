@@ -34,6 +34,10 @@ nav ul{
 }
 nav ul li{
     flex-grow: 1;
+    padding: 1%;
+    margin: 1%;
+    background-color: aqua;
+    text-align: center;
 }
 
 article{
@@ -53,6 +57,7 @@ div.Products{
 }
 
 div.individualProduct{
+    margin: 1%;
     padding: 1%;
     flex-grow: 1;
     background-color: white;
