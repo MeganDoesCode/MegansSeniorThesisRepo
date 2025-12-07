@@ -12,10 +12,12 @@ body{
     margin: 0%;
     border: 0%;
     position: relative;
+    background-color: #83c7a5;
 }
 
 header{
-    background-color: lightblue;
+    background-color: #0145ac;
+    color: white;
 }
 
 header h1{
@@ -23,7 +25,7 @@ header h1{
 }
 
 nav{
-    background-color: aliceblue;
+    background-color: #0145ac;
 }
 
 nav ul{
@@ -36,17 +38,17 @@ nav ul li{
     flex-grow: 1;
     padding: 1%;
     margin: 1%;
-    background-color: aqua;
+    background-color: white;
     text-align: center;
 }
 
-article{
-    background-color: lightgreen;
+main{
+    
     clear: left;
     padding: 1%;
 }
 
-article h2{
+main h2{
     margin: 0%;
 }
 
@@ -64,7 +66,8 @@ div.individualProduct{
 }
 
 footer{
-    background-color: lightblue;
+    background-color: #0145ac;
+    color: white;
     position: fixed;
     width: 100%;
     bottom: 0px;

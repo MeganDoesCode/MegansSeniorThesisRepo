@@ -1,7 +1,7 @@
 <div class="Products">
     {{#each products}}
     <div class="individualProduct">
-        <div class="Image">
+        <div class="Image" >
             <img src= "/docs/images/{{this/Image}}" width="200"/>
         </div>
         </br>
@@ -12,6 +12,7 @@
         <div class="Price">
             ${{this/Price}}
         </div>
+        <button>Add to cart</button>
     </div> <!-- individual Product -->
     {{/each}}
 </div> <!-- Products -->

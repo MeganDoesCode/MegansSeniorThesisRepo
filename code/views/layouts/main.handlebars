@@ -4,8 +4,8 @@
         <!--
         Author: Megan Jensen
         Date: September 2025
-        Filename: /MegansSeniorThesisRepo/code/main.html
-        Images stored in the /MegansSeniorThesisRepo/img folder
+        Filename: /MegansSeniorThesisRepo/code/main.handlebars
+        Images stored in the /MegansSeniorThesisRepo/code/public/docs/images folder
         Files linked to this page will appear in /MegansSeniorThesisRepo/code folder
         
         -->
@@ -18,27 +18,24 @@
     <body>
         <header>
             <h1>Useful Things</h1>
+            <button>View cart</button>
         </header>
         <nav>
             <ul>
-                <li><a href="Cards.html">Cards</a></li>
-                <li><a href="Clothes.html">Clothes</a></li>
-                <li><a href="Sewing.html">Crochet and Knit</a></li>
-                <li><a href="Garden.html">Garden</a></li>
-                <li><a href="Kitchen.html">Kitchen</a></li>
-                <li><a href="Misc.html">Miscellaneous</a></li>
-                <li><a href="Baking.html">Personalized Baking</a></li>
+                <li><a href="/">Home</a></li>
+                <li><a href="/Cards">Cards</a></li>
+                <li><a href="/Clothes">Clothes</a></li>
+                <li><a href="/Sewing">Crochet and Knit</a></li>
+                <li><a href="/Garden">Garden</a></li>
+                <li><a href="/Kitchen">Kitchen</a></li>
+                <li><a href="/Misc">Miscellaneous</a></li>
+                <li><a href="/Baking">Personalized Baking</a></li>
             </ul>
         </nav>
-        <section>
-            <article>
-                <h2>All Products</h2>
-                {{{body}}}                
-            </article>
-        </section>
-        <aside>
-
-        </aside>
+        <main>
+            <h2>Products</h2>
+            {{{body}}}
+        </main>
         <footer>
             <h3>Useful Things</h3>
         </footer>

@@ -40,6 +40,97 @@ app.get('/', async (req, res) => {
     }
 });
 
+app.get('/Cards', async (req, res) => {
+    try{
+        const products = await db.getCardsProducts();
+        if(products) {
+            res.render('ProductView', {products: products})
+        } else {
+            res.json({"results" : "none"});
+        }
+    } catch (err) {
+        res.json({"results" : "none"});
+    }
+});
+
+app.get('/Clothes', async (req, res) => {
+    try{
+        const products = await db.getClothesProducts();
+        if(products) {
+            res.render('ProductView', {products: products})
+        } else {
+            res.json({"results" : "none"});
+        }
+    } catch (err) {
+        res.json({"results" : "none"});
+    }
+});
+
+app.get('/Sewing', async (req, res) => {
+    try{
+        const products = await db.getSewingProducts();
+        if(products) {
+            res.render('ProductView', {products: products})
+        } else {
+            res.json({"results" : "none"});
+        }
+    } catch (err) {
+        res.json({"results" : "none"});
+    }
+});
+
+app.get('/Garden', async (req, res) => {
+    try{
+        const products = await db.getGardenProducts();
+        if(products) {
+            res.render('ProductView', {products: products})
+        } else {
+            res.json({"results" : "none"});
+        }
+    } catch (err) {
+        res.json({"results" : "none"});
+    }
+});
+
+app.get('/Kitchen', async (req, res) => {
+    try{
+        const products = await db.getKitchenProducts();
+        if(products) {
+            res.render('ProductView', {products: products})
+        } else {
+            res.json({"results" : "none"});
+        }
+    } catch (err) {
+        res.json({"results" : "none"});
+    }
+});
+
+app.get('/Misc', async (req, res) => {
+    try{
+        const products = await db.getMiscProducts();
+        if(products) {
+            res.render('ProductView', {products: products})
+        } else {
+            res.json({"results" : "none"});
+        }
+    } catch (err) {
+        res.json({"results" : "none"});
+    }
+});
+
+app.get('/Baking', async (req, res) => {
+    try{
+        const products = await db.getBakingProducts();
+        if(products) {
+            res.render('ProductView', {products: products})
+        } else {
+            res.json({"results" : "none"});
+        }
+    } catch (err) {
+        res.json({"results" : "none"});
+    }
+});
+
 app.use((req, res) => { 
     res.status(404).send(`<h2>Uh Oh!</h2><p>Sorry ${req.url} cannot be found here</p>`); 
 }); 
